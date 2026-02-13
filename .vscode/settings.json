@@ -1,5 +1,6 @@
 {
     "cSpell.enabledFileTypes": {
-        "html": false
+        "html": false,
+        "css": true
     }
 }
